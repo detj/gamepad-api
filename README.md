@@ -15,4 +15,4 @@ Tested using the standard Xbox One X Wireless Controller connected over Bluetoot
 
 ## Demo
 
-[Checkout the video](./gamepad-api-demo.mp4)
+[Checkout the video](../../raw/master/gamepad-api-demo.mp4)
